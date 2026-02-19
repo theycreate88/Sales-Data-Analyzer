@@ -153,16 +153,9 @@ The project generates the following outputs:
 
 ---
 
-## Future Enhancements
-
-- Customer-level sales analysis  
-- Integration with real-time sales data  
-- Predictive sales forecasting  
-- Interactive dashboard implementation  
-- Automated report generation  
-
----
-
 ## Author
 
 Developed By theycreate_developer-AbdulBasit.
+
+---
+
